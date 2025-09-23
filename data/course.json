@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "legacy_uid": "cabe2796-63cb-1cc1-049b-6da9e3f588a5",
+  "instructors": {
+    "content": [
+      "ccde269a-2e02-52f3-dbeb-779ffbd222f5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5f16c1d6-b57e-1194-7ed9-a604479568fe",
+    "website": "10-490-integrated-chemical-engineering-i-fall-2006"
+  },
+  "course_title": "Integrated Chemical Engineering I",
+  "course_description": "This course uses reaction kinetics, batch reactor analysis, batch distillation, batch operations scheduling, safety analysis, and the ABACUSS process simulator to introduce process design and analysis techniques.\n\nAcknowledgements\n----------------\n\nThe materials for the Fall 2006 offering of this course were drawn extensively from the materials that Professor Paul Barton used while teaching this course in past years. We are indebted to him for his long service to 10.490.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.490",
+  "course_image_thumbnail": {
+    "content": "b1ceb891-c13d-4007-6908-9a328c10b1f3",
+    "website": "10-490-integrated-chemical-engineering-i-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "d508d3a0-c7fa-4f64-a2d0-73c2619045f4",
+  "site_short_id": "10.490-fall-2006",
+  "site_url_path": "courses/10-490-integrated-chemical-engineering-i-fall-2006",
+  "title": "Course Metadata"
+}
