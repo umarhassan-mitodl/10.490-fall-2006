@@ -6,6 +6,8 @@ description: 'Memo on the following topics: instructions for using the ABACUSS b
 file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/0744226734e6928bb213a8ae079abe24_memo_6.pdf
 file_size: 55718
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

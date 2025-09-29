@@ -27,6 +27,7 @@
     "website": "10-490-integrated-chemical-engineering-i-fall-2006"
   },
   "course_title": "Integrated Chemical Engineering I",
+  "hide_download": true,
   "course_description": "This course uses reaction kinetics, batch reactor analysis, batch distillation, batch operations scheduling, safety analysis, and the ABACUSS process simulator to introduce process design and analysis techniques.\n\nAcknowledgements\n----------------\n\nThe materials for the Fall 2006 offering of this course were drawn extensively from the materials that Professor Paul Barton used while teaching this course in past years. We are indebted to him for his long service to 10.490.\n",
   "department_numbers": [
     "10"
@@ -37,6 +38,7 @@
     "content": "b1ceb891-c13d-4007-6908-9a328c10b1f3",
     "website": "10-490-integrated-chemical-engineering-i-fall-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],
