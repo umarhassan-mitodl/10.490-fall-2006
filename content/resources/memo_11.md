@@ -5,8 +5,6 @@ description: 'Memo on the following topics: base case process simulation, base c
 file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/bcf8ad0aeb2a66d7eb66dcb46ad68e03_memo_11.pdf
 file_size: 102025
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

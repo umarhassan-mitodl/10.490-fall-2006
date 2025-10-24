@@ -4,8 +4,6 @@ description: Memo 7 appendix.
 file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/20dcd79f4dc0b8fd0222cf7c2aed755f_memo_7_appendix.pdf
 file_size: 80573
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: 'Memo on the following topics: physical property data for lucretex 
 file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/05d1a7dd8fe3a4e08e442b76bcff0a0c_memo_7.pdf
 file_size: 96222
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
